@@ -157,7 +157,7 @@ Select your package manager and follow the instructions to upgrade the Wazuh age
 
     #. Upgrade the Wazuh agent to the latest version.
         The Alpine Linux latest version could be found :doc:`here </documentation.wazuh.com/current/installation-guide/packages-list.html>` 
-        Please in the "apk add wazuh-agent=4.5.3-r1" command replace "4.5.3-r1" with the latest required version.
+        In the "apk add wazuh-agent=4.5.3-r1" command, please replace "4.5.3-r1" with the latest required version.
 
        .. code-block:: console
 
