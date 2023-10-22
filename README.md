@@ -5,7 +5,7 @@
 [![Documentation](https://img.shields.io/badge/docs-view-green.svg)](https://documentation.wazuh.com/)
 [![Website](https://img.shields.io/badge/web-view-green.svg)](https://wazuh.com/)
 
-Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
+Wazuh is a free !!, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
 
 The online documentation for this project is available in this repository. Members of the Wazuh team and community users contribute to its development and daily improvement.
 
